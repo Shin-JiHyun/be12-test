@@ -9,4 +9,8 @@
 수정!
 
 ---
+### Use Case Diagram
 ![use-case_diagram](diagram/use-case_diagram.png)
+
+### Class Diagram
+![class-diagram](diagram/image.png)
