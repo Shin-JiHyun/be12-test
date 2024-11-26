@@ -20,3 +20,6 @@
 
 #### Product Class
 ![product-class](diagram/product_class.png)
+
+#### Order Table
+![oreder-table](diagram/ordertable.png)
