@@ -8,3 +8,5 @@
 
 수정!
 
+---
+![use-case_diagram](diagram/use-case_diagram.png)
