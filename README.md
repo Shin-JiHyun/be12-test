@@ -19,4 +19,4 @@
 ![review-table](diagram/review-table.png)
 
 #### Product Class
-![product-class](diagram/상품 클래스.png)
+![product-class](diagram/product_class.png)
